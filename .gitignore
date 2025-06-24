@@ -1,0 +1,11 @@
+/*
+!.gitignore
+!README.md
+!application/
+!deliverables/
+!images/
+
+application/**/__pycache__/
+application/**/.DS_Store
+deliverables/**/.DS_Store
+images/**/.DS_Store
